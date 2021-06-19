@@ -1,0 +1,182 @@
+﻿  Irodahaz.cpp
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(47): warning C4661: 'Csucs<int,int>::Csucs(K,T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              K=int,
+              T=int
+          ]
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(17): message : see declaration of 'Csucs<int,int>::Csucs'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(47): warning C4661: 'Csucs<int,int> *Csucs<int,int>::nagybacsi(void)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(18): message : see declaration of 'Csucs<int,int>::nagybacsi'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(47): warning C4661: 'Csucs<int,int> *Csucs<int,int>::testver(void)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(19): message : see declaration of 'Csucs<int,int>::testver'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(48): warning C4661: 'void PFFa<int,int>::forgatBal(Csucs<int,int> *&,Csucs<int,int> *&)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(26): message : see declaration of 'PFFa<int,int>::forgatBal'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(48): warning C4661: 'void PFFa<int,int>::forgatJobb(Csucs<int,int> *&,Csucs<int,int> *&)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(27): message : see declaration of 'PFFa<int,int>::forgatJobb'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(48): warning C4661: 'void PFFa<int,int>::egyensulyoz(Csucs<int,int> *&,Csucs<int,int> *&)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(28): message : see declaration of 'PFFa<int,int>::egyensulyoz'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(48): warning C4661: 'void PFFa<int,int>::egyensulyozDuplaFekete(Csucs<int,int> *)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(29): message : see declaration of 'PFFa<int,int>::egyensulyozDuplaFekete'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(48): warning C4661: 'Csucs<int,int> *PFFa<int,int>::hasonlit(Csucs<int,int> *,K)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              K=int
+          ]
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(30): message : see declaration of 'PFFa<int,int>::hasonlit'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(48): warning C4661: 'void PFFa<int,int>::inorder(Csucs<int,int> *,void (__cdecl *)(T))': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=int
+          ]
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(31): message : see declaration of 'PFFa<int,int>::inorder'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(48): warning C4661: 'void PFFa<int,int>::beszur(K,const T &)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              K=int,
+              T=int
+          ]
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(35): message : see declaration of 'PFFa<int,int>::beszur'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(48): warning C4661: 'Csucs<int,int> *PFFa<int,int>::keres(K)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              K=int
+          ]
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(36): message : see declaration of 'PFFa<int,int>::keres'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(48): warning C4661: 'Csucs<int,int> *PFFa<int,int>::kovetkezo(Csucs<int,int> *)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(37): message : see declaration of 'PFFa<int,int>::kovetkezo'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(48): warning C4661: 'Csucs<int,int> *PFFa<int,int>::elozo(Csucs<int,int> *)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(38): message : see declaration of 'PFFa<int,int>::elozo'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(48): warning C4661: 'Csucs<int,int> *PFFa<int,int>::elso(void)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(39): message : see declaration of 'PFFa<int,int>::elso'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(48): warning C4661: 'Csucs<int,int> *PFFa<int,int>::utolso(void)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(40): message : see declaration of 'PFFa<int,int>::utolso'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(48): warning C4661: 'bool PFFa<int,int>::letezik(K)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              K=int
+          ]
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(41): message : see declaration of 'PFFa<int,int>::letezik'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(48): warning C4661: 'void PFFa<int,int>::torol(Csucs<int,int> *)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(43): message : see declaration of 'PFFa<int,int>::torol'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(57): warning C4661: 'Csucs<int,Szemely>::Csucs(K,T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              K=int,
+              T=Szemely
+          ]
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(17): message : see declaration of 'Csucs<int,Szemely>::Csucs'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(57): warning C4661: 'Csucs<int,Szemely> *Csucs<int,Szemely>::nagybacsi(void)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(18): message : see declaration of 'Csucs<int,Szemely>::nagybacsi'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(57): warning C4661: 'Csucs<int,Szemely> *Csucs<int,Szemely>::testver(void)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(19): message : see declaration of 'Csucs<int,Szemely>::testver'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(58): warning C4661: 'void PFFa<int,Szemely>::forgatBal(Csucs<int,Szemely> *&,Csucs<int,Szemely> *&)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(26): message : see declaration of 'PFFa<int,Szemely>::forgatBal'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(58): warning C4661: 'void PFFa<int,Szemely>::forgatJobb(Csucs<int,Szemely> *&,Csucs<int,Szemely> *&)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(27): message : see declaration of 'PFFa<int,Szemely>::forgatJobb'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(58): warning C4661: 'void PFFa<int,Szemely>::egyensulyoz(Csucs<int,Szemely> *&,Csucs<int,Szemely> *&)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(28): message : see declaration of 'PFFa<int,Szemely>::egyensulyoz'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(58): warning C4661: 'void PFFa<int,Szemely>::egyensulyozDuplaFekete(Csucs<int,Szemely> *)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(29): message : see declaration of 'PFFa<int,Szemely>::egyensulyozDuplaFekete'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(58): warning C4661: 'Csucs<int,Szemely> *PFFa<int,Szemely>::hasonlit(Csucs<int,Szemely> *,K)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              K=int
+          ]
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(30): message : see declaration of 'PFFa<int,Szemely>::hasonlit'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(58): warning C4661: 'void PFFa<int,Szemely>::inorder(Csucs<int,Szemely> *,void (__cdecl *)(T))': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Szemely
+          ]
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(31): message : see declaration of 'PFFa<int,Szemely>::inorder'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(58): warning C4661: 'void PFFa<int,Szemely>::beszur(K,const T &)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              K=int,
+              T=Szemely
+          ]
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(35): message : see declaration of 'PFFa<int,Szemely>::beszur'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(58): warning C4661: 'Csucs<int,Szemely> *PFFa<int,Szemely>::keres(K)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              K=int
+          ]
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(36): message : see declaration of 'PFFa<int,Szemely>::keres'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(58): warning C4661: 'Csucs<int,Szemely> *PFFa<int,Szemely>::kovetkezo(Csucs<int,Szemely> *)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(37): message : see declaration of 'PFFa<int,Szemely>::kovetkezo'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(58): warning C4661: 'Csucs<int,Szemely> *PFFa<int,Szemely>::elozo(Csucs<int,Szemely> *)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(38): message : see declaration of 'PFFa<int,Szemely>::elozo'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(58): warning C4661: 'Csucs<int,Szemely> *PFFa<int,Szemely>::elso(void)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(39): message : see declaration of 'PFFa<int,Szemely>::elso'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(58): warning C4661: 'Csucs<int,Szemely> *PFFa<int,Szemely>::utolso(void)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(40): message : see declaration of 'PFFa<int,Szemely>::utolso'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(58): warning C4661: 'bool PFFa<int,Szemely>::letezik(K)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              K=int
+          ]
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(41): message : see declaration of 'PFFa<int,Szemely>::letezik'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(58): warning C4661: 'void PFFa<int,Szemely>::torol(Csucs<int,Szemely> *)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(43): message : see declaration of 'PFFa<int,Szemely>::torol'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(60): warning C4661: 'Csucs<std::string,int>::Csucs(K,T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              K=std::string,
+              T=int
+          ]
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(17): message : see declaration of 'Csucs<std::string,int>::Csucs'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(60): warning C4661: 'Csucs<std::string,int> *Csucs<std::string,int>::nagybacsi(void)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(18): message : see declaration of 'Csucs<std::string,int>::nagybacsi'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(60): warning C4661: 'Csucs<std::string,int> *Csucs<std::string,int>::testver(void)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(19): message : see declaration of 'Csucs<std::string,int>::testver'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(61): warning C4661: 'void PFFa<std::string,int>::forgatBal(Csucs<std::string,int> *&,Csucs<std::string,int> *&)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(26): message : see declaration of 'PFFa<std::string,int>::forgatBal'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(61): warning C4661: 'void PFFa<std::string,int>::forgatJobb(Csucs<std::string,int> *&,Csucs<std::string,int> *&)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(27): message : see declaration of 'PFFa<std::string,int>::forgatJobb'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(61): warning C4661: 'void PFFa<std::string,int>::egyensulyoz(Csucs<std::string,int> *&,Csucs<std::string,int> *&)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(28): message : see declaration of 'PFFa<std::string,int>::egyensulyoz'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(61): warning C4661: 'void PFFa<std::string,int>::egyensulyozDuplaFekete(Csucs<std::string,int> *)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(29): message : see declaration of 'PFFa<std::string,int>::egyensulyozDuplaFekete'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(61): warning C4661: 'Csucs<std::string,int> *PFFa<std::string,int>::hasonlit(Csucs<std::string,int> *,K)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              K=std::string
+          ]
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(30): message : see declaration of 'PFFa<std::string,int>::hasonlit'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(61): warning C4661: 'void PFFa<std::string,int>::inorder(Csucs<std::string,int> *,void (__cdecl *)(T))': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=int
+          ]
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(31): message : see declaration of 'PFFa<std::string,int>::inorder'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(61): warning C4661: 'void PFFa<std::string,int>::beszur(K,const T &)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              K=std::string,
+              T=int
+          ]
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(35): message : see declaration of 'PFFa<std::string,int>::beszur'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(61): warning C4661: 'Csucs<std::string,int> *PFFa<std::string,int>::keres(K)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              K=std::string
+          ]
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(36): message : see declaration of 'PFFa<std::string,int>::keres'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(61): warning C4661: 'Csucs<std::string,int> *PFFa<std::string,int>::kovetkezo(Csucs<std::string,int> *)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(37): message : see declaration of 'PFFa<std::string,int>::kovetkezo'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(61): warning C4661: 'Csucs<std::string,int> *PFFa<std::string,int>::elozo(Csucs<std::string,int> *)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(38): message : see declaration of 'PFFa<std::string,int>::elozo'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(61): warning C4661: 'Csucs<std::string,int> *PFFa<std::string,int>::elso(void)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(39): message : see declaration of 'PFFa<std::string,int>::elso'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(61): warning C4661: 'Csucs<std::string,int> *PFFa<std::string,int>::utolso(void)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(40): message : see declaration of 'PFFa<std::string,int>::utolso'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(61): warning C4661: 'bool PFFa<std::string,int>::letezik(K)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              K=std::string
+          ]
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(41): message : see declaration of 'PFFa<std::string,int>::letezik'
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(61): warning C4661: 'void PFFa<std::string,int>::torol(Csucs<std::string,int> *)': no suitable definition provided for explicit template instantiation request
+E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\piros_fekete_fak\PFF.h(43): message : see declaration of 'PFFa<std::string,int>::torol'
+  piros_fekete_fak.vcxproj -> E:\Egyetem\II. félév\Adatszerkezetek\Projekt\piros_fekete_fak\Debug\piros_fekete_fak.exe
